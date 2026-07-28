@@ -141,10 +141,15 @@ A native **Windows 11 system care and optimization utility**, combining cleanup,
 </p>
 
 <p align="center">
+  <sub><code>platforms</code></sub>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Windows_11-171D33?style=for-the-badge&logo=windows11&logoColor=8B7CFF" alt="Windows 11" />
   <img src="https://img.shields.io/badge/Linux-171D33?style=for-the-badge&logo=linux&logoColor=55D6FF" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-171D33?style=for-the-badge&logo=ubuntu&logoColor=8B7CFF" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Arch_Linux-171D33?style=for-the-badge&logo=archlinux&logoColor=8B7CFF" alt="Arch Linux" />
 </p>
+
 
 ## `> current_process`
 
