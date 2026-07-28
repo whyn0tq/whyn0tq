@@ -81,7 +81,7 @@ A native **Windows 11 system care and optimization utility**, combining cleanup,
 ## `> stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,ts,qt,cmake,git,github,vscode,windows,linux&theme=dark" alt="C++, Rust, TypeScript, Qt, CMake, Git, GitHub, VS Code, Windows and Linux" />
+  <img src="./assets/stack.png" alt="C++, Rust, TypeScript, Qt, CMake, Git, GitHub, VS Code, Windows and Linux" width="100%" />
 </p>
 
 ## `> current_process`
