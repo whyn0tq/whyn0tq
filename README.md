@@ -59,20 +59,20 @@ A modern, local-first **SSH and SFTP workspace for Windows**, built around fast 
 </td>
 <td width="50%" valign="top">
 
-### [GenPass](https://github.com/whyn0tq/genpass)
+### [WinO](https://github.com/whyn0tq/WinO)
 
-A compact **password generator and strength checker** written in Rust, focused on predictable CLI workflows.
+A native **Windows 11 system care and optimization utility**, combining cleanup, startup management, storage analysis and diagnostics in one focused desktop interface.
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-0B1020?style=flat-square&logo=rust&logoColor=55D6FF" alt="Rust" />
-  <img src="https://img.shields.io/badge/CLI-0B1020?style=flat-square&logo=gnubash&logoColor=8B7CFF" alt="CLI" />
-  <img src="https://img.shields.io/badge/Security-0B1020?style=flat-square&logo=protonvpn&logoColor=55D6FF" alt="Security" />
-  <img src="https://img.shields.io/badge/Cross--platform-0B1020?style=flat-square&logo=linux&logoColor=8B7CFF" alt="Cross-platform" />
+  <img src="https://img.shields.io/badge/C%2B%2B20-0B1020?style=flat-square&logo=cplusplus&logoColor=55D6FF" alt="C++20" />
+  <img src="https://img.shields.io/badge/Qt_6-0B1020?style=flat-square&logo=qt&logoColor=8B7CFF" alt="Qt 6" />
+  <img src="https://img.shields.io/badge/CMake-0B1020?style=flat-square&logo=cmake&logoColor=55D6FF" alt="CMake" />
+  <img src="https://img.shields.io/badge/Windows_11-0B1020?style=flat-square&logo=windows11&logoColor=8B7CFF" alt="Windows 11" />
 </p>
 
-`fast` · `small` · `cross-platform`
+`system care` · `safe cleanup` · `native Windows`
 
-[open repository →](https://github.com/whyn0tq/genpass)
+[open repository →](https://github.com/whyn0tq/WinO)
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ A compact **password generator and strength checker** written in Rust, focused o
 
 ```text
 [01] Nexa      :: refine the native SSH/SFTP experience
-[02] GenPass   :: improve tests, releases and CLI ergonomics
+[02] WinO      :: stabilize cleanup, diagnostics and system care
 [03] Next      :: build useful software without unnecessary noise
 ```
 
