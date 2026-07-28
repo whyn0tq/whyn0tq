@@ -81,7 +81,42 @@ A native **Windows 11 system care and optimization utility**, combining cleanup,
 ## `> stack`
 
 <p align="center">
-  <img src="./assets/stack.png" alt="C++, Rust, TypeScript, Qt, CMake, Git, GitHub, VS Code, Windows and Linux" width="100%" />
+  <sub><code>languages</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B20-171D33?style=for-the-badge&logo=cplusplus&logoColor=55D6FF" alt="C++20" />
+  <img src="https://img.shields.io/badge/Rust-171D33?style=for-the-badge&logo=rust&logoColor=8B7CFF" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-171D33?style=for-the-badge&logo=typescript&logoColor=55D6FF" alt="TypeScript" />
+</p>
+
+<p align="center">
+  <sub><code>native development</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Qt_6-171D33?style=for-the-badge&logo=qt&logoColor=8B7CFF" alt="Qt 6" />
+  <img src="https://img.shields.io/badge/CMake-171D33?style=for-the-badge&logo=cmake&logoColor=55D6FF" alt="CMake" />
+  <img src="https://img.shields.io/badge/WinAPI-171D33?style=for-the-badge&logo=windows&logoColor=8B7CFF" alt="WinAPI" />
+</p>
+
+<p align="center">
+  <sub><code>workflow</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-171D33?style=for-the-badge&logo=git&logoColor=55D6FF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-171D33?style=for-the-badge&logo=github&logoColor=8B7CFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-171D33?style=for-the-badge&logo=visualstudiocode&logoColor=55D6FF" alt="Visual Studio Code" />
+</p>
+
+<p align="center">
+  <sub><code>platforms</code></sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_11-171D33?style=for-the-badge&logo=windows11&logoColor=8B7CFF" alt="Windows 11" />
+  <img src="https://img.shields.io/badge/Linux-171D33?style=for-the-badge&logo=linux&logoColor=55D6FF" alt="Linux" />
 </p>
 
 ## `> current_process`
