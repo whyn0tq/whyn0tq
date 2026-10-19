@@ -6,11 +6,6 @@
     <img src="https://img.shields.io/badge/TELEGRAM-0B1020?style=for-the-badge&logo=telegram&logoColor=8B7CFF&labelColor=0B1020&color=171D33" alt="Telegram" />
   </a>
 </p>
-
-<p align="center">
-  <code>native tools</code>&nbsp;&nbsp;•&nbsp;&nbsp;<code>local-first software</code>&nbsp;&nbsp;•&nbsp;&nbsp;<code>clean interfaces</code>
-</p>
-
 <br />
 
 ## `> whoami`
