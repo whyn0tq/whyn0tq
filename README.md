@@ -20,10 +20,52 @@ principles:
 
 ## `> featured_projects`
 
-| | |
-| --- | --- |
-| **[Nexa](https://github.com/whyn0tq/Nexa)**<br>A modern, local-first **SSH and SFTP workspace for Windows**, built around fast navigation and a clean native interface.<br><br>![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E) ![Qt](https://img.shields.io/badge/Qt-FFFFFF?style=flat-square&logo=qt&logoColor=E11D2E) ![CMake](https://img.shields.io/badge/CMake-FFFFFF?style=flat-square&logo=cmake&logoColor=E11D2E) ![Windows](https://img.shields.io/badge/Windows-FFFFFF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UxMUQyRSIgZD0iTTIgMmg5LjV2OS41SDJ6TTEyLjUgMkgyMnY5LjVoLTkuNXpNMiAxMi41aDkuNVYyMkgyek0xMi41IDEyLjVIMjJWMjJoLTkuNXoiLz48L3N2Zz4%3D) <br><br>`native UI` · `async transfers` · `local-first`<br><br>![updated](https://img.shields.io/github/last-commit/whyn0tq/Nexa?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated) ![stars](https://img.shields.io/github/stars/whyn0tq/Nexa?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E)<br><br>[open repository →](https://github.com/whyn0tq/Nexa) | **[WinO](https://github.com/whyn0tq/WinO)**<br>A native **Windows 11 system care and optimization utility**, combining cleanup, startup management, storage analysis and diagnostics in one focused desktop interface.<br><br>![C++20](https://img.shields.io/badge/C%2B%2B20-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E) ![Qt 6](https://img.shields.io/badge/Qt_6-FFFFFF?style=flat-square&logo=qt&logoColor=E11D2E) ![CMake](https://img.shields.io/badge/CMake-FFFFFF?style=flat-square&logo=cmake&logoColor=E11D2E) ![Windows 11](https://img.shields.io/badge/Windows_11-FFFFFF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UxMUQyRSIgZD0iTTIgMmg5LjV2OS41SDJ6TTEyLjUgMkgyMnY5LjVoLTkuNXpNMiAxMi41aDkuNVYyMkgyek0xMi41IDEyLjVIMjJWMjJoLTkuNXoiLz48L3N2Zz4%3D) <br><br>`system care` · `safe cleanup` · `native Windows`<br><br>![updated](https://img.shields.io/github/last-commit/whyn0tq/WinO?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated) ![stars](https://img.shields.io/github/stars/whyn0tq/WinO?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E)<br><br>[open repository →](https://github.com/whyn0tq/WinO) |
-| **[Verdict](https://github.com/whyn0tq/cs2-verdict)**<br>An **admin and punishment system for Counter-Strike 2 servers**: bans, mutes, admin groups and flags, votes and an in-game menu, with multi-server support.<br><br>![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E) ![Metamod](https://img.shields.io/badge/Metamod-FFFFFF?style=flat-square&logo=counterstrike&logoColor=E11D2E) ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=E11D2E) ![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=E11D2E) <br><br>`metamod plugin` · `multi-server` · `shared database`<br><br>![updated](https://img.shields.io/github/last-commit/whyn0tq/cs2-verdict?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated) ![stars](https://img.shields.io/github/stars/whyn0tq/cs2-verdict?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E)<br><br>[open repository →](https://github.com/whyn0tq/cs2-verdict) | **[Verdict Web](https://github.com/whyn0tq/cs2-verdict-web)**<br>A **web admin panel for Verdict**: bans, mutes, admins, server status, RCON, live scoreboard, 2FA and an install wizard. Runs on ordinary PHP hosting.<br><br>![PHP](https://img.shields.io/badge/PHP-FFFFFF?style=flat-square&logo=php&logoColor=E11D2E) ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=E11D2E) ![Apache](https://img.shields.io/badge/Apache-FFFFFF?style=flat-square&logo=apache&logoColor=E11D2E) <br><br>`web panel` · `no build step` · `2FA`<br><br>![updated](https://img.shields.io/github/last-commit/whyn0tq/cs2-verdict-web?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated) ![stars](https://img.shields.io/github/stars/whyn0tq/cs2-verdict-web?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E)<br><br>[open repository →](https://github.com/whyn0tq/cs2-verdict-web) |
+<table>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/whyn0tq/Nexa">Nexa</a></b><br>
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E" alt="C++"> <img src="https://img.shields.io/badge/Qt-FFFFFF?style=flat-square&logo=qt&logoColor=E11D2E" alt="Qt"> <img src="https://img.shields.io/badge/CMake-FFFFFF?style=flat-square&logo=cmake&logoColor=E11D2E" alt="CMake"> <img src="https://img.shields.io/badge/Windows-FFFFFF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UxMUQyRSIgZD0iTTIgMmg5LjV2OS41SDJ6TTEyLjUgMkgyMnY5LjVoLTkuNXpNMiAxMi41aDkuNVYyMkgyek0xMi41IDEyLjVIMjJWMjJoLTkuNXoiLz48L3N2Zz4%3D" alt="Windows"> <br>
+<br>
+<code>native UI</code> · <code>async transfers</code> · <code>local-first</code><br>
+<br>
+A modern, local-first <b>SSH and SFTP workspace for Windows</b>, built around fast navigation and a clean native interface.<br>
+<br>
+<img src="https://img.shields.io/github/last-commit/whyn0tq/Nexa?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated" alt="updated"> <img src="https://img.shields.io/github/stars/whyn0tq/Nexa?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E" alt="stars">
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/whyn0tq/WinO">WinO</a></b><br>
+<img src="https://img.shields.io/badge/C%2B%2B20-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E" alt="C++20"> <img src="https://img.shields.io/badge/Qt_6-FFFFFF?style=flat-square&logo=qt&logoColor=E11D2E" alt="Qt 6"> <img src="https://img.shields.io/badge/CMake-FFFFFF?style=flat-square&logo=cmake&logoColor=E11D2E" alt="CMake"> <img src="https://img.shields.io/badge/Windows_11-FFFFFF?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0UxMUQyRSIgZD0iTTIgMmg5LjV2OS41SDJ6TTEyLjUgMkgyMnY5LjVoLTkuNXpNMiAxMi41aDkuNVYyMkgyek0xMi41IDEyLjVIMjJWMjJoLTkuNXoiLz48L3N2Zz4%3D" alt="Windows 11"> <br>
+<br>
+<code>system care</code> · <code>safe cleanup</code> · <code>native Windows</code><br>
+<br>
+A native <b>Windows 11 system care and optimization utility</b>: cleanup, startup management, storage analysis and diagnostics in one focused desktop interface.<br>
+<br>
+<img src="https://img.shields.io/github/last-commit/whyn0tq/WinO?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated" alt="updated"> <img src="https://img.shields.io/github/stars/whyn0tq/WinO?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E" alt="stars">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/whyn0tq/cs2-verdict">Verdict</a></b><br>
+<img src="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=flat-square&logo=cplusplus&logoColor=E11D2E" alt="C++"> <img src="https://img.shields.io/badge/Metamod-FFFFFF?style=flat-square&logo=counterstrike&logoColor=E11D2E" alt="Metamod"> <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=E11D2E" alt="MySQL"> <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat-square&logo=linux&logoColor=E11D2E" alt="Linux"> <br>
+<br>
+<code>metamod plugin</code> · <code>multi-server</code> · <code>shared database</code><br>
+<br>
+An <b>admin and punishment system for Counter-Strike 2 servers</b>: bans, mutes, admin groups, votes and an in-game menu.<br>
+<br>
+<img src="https://img.shields.io/github/last-commit/whyn0tq/cs2-verdict?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated" alt="updated"> <img src="https://img.shields.io/github/stars/whyn0tq/cs2-verdict?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E" alt="stars">
+</td>
+<td width="50%" valign="top">
+<b><a href="https://github.com/whyn0tq/cs2-verdict-web">Verdict Web</a></b><br>
+<img src="https://img.shields.io/badge/PHP-FFFFFF?style=flat-square&logo=php&logoColor=E11D2E" alt="PHP"> <img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=E11D2E" alt="MySQL"> <img src="https://img.shields.io/badge/Apache-FFFFFF?style=flat-square&logo=apache&logoColor=E11D2E" alt="Apache"> <br>
+<br>
+<code>web panel</code> · <code>no build step</code> · <code>2FA</code><br>
+<br>
+A <b>web admin panel for Verdict</b>: bans, mutes, admins, server status, RCON, live scoreboard and 2FA. Runs on ordinary PHP hosting.<br>
+<br>
+<img src="https://img.shields.io/github/last-commit/whyn0tq/cs2-verdict-web?style=flat-square&labelColor=FFFFFF&color=E11D2E&label=updated" alt="updated"> <img src="https://img.shields.io/github/stars/whyn0tq/cs2-verdict-web?style=flat-square&labelColor=FFFFFF&color=E11D2E&logo=github&logoColor=E11D2E" alt="stars">
+</td>
+</tr>
+</table>
 
 ## `> stack`
 
