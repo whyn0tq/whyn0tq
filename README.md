@@ -15,11 +15,6 @@ building:
   - native desktop applications
   - developer and security tools
   - local-first interfaces
-
-principles:
-  - clarity over noise
-  - privacy by default
-  - small, reliable releases
 ```
 
 ## `> featured_projects`
