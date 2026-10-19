@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/header.png" alt="whyn0tq — C++, Rust, TypeScript" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/whyn0tq?tab=repositories">
     <img src="https://img.shields.io/badge/REPOSITORIES-0B1020?style=for-the-badge&logo=github&logoColor=55D6FF&labelColor=0B1020&color=171D33" alt="Repositories" />
   </a>
