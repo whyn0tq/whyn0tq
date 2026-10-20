@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/whyn0tq?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=E11D2E&color=FFFFFF" alt="Repositories" /></a>
   <a href="https://t.me/why_notq"><img src="https://img.shields.io/badge/TELEGRAM-FFFFFF?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=E11D2E&color=FFFFFF" alt="Telegram" /></a>
   <a href="https://discord.com/users/521250631890239488"><img src="https://img.shields.io/badge/WHY__NOTQ-FFFFFF?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=E11D2E&color=FFFFFF" alt="Discord" /></a>
 </p>
@@ -9,12 +8,6 @@
 ```yaml
 alias: teesa
 handle: whyn0tq
-location: Germany
-
-building:
-  - native desktop applications
-  - developer and security tools
-  - local-first interfaces
 ```
 
 ## `> stack`
