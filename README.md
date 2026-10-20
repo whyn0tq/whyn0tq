@@ -79,14 +79,3 @@ handle: whyn0tq
   <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=E11D2E" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Linux-FFFFFF?style=for-the-badge&logo=archlinux&logoColor=E11D2E" alt="Arch Linux" />
 </p>
-
-
-## `> signal`
-
-```text
-status    : building
-interests : native software / tooling / security / interface design
-telegram  : t.me/why_notq
-discord   : why_notq
-```
-
